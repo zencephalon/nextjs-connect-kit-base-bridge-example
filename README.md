@@ -1,6 +1,6 @@
 This is a [wagmi](https://wagmi.sh) + [ConnectKit](https://docs.family.co/connectkit) + [Next.js](https://nextjs.org) project bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi)
 
-# Getting Started
+# Simplest Possible Base Bridge Example
 
 Run `npm run dev` in your terminal, and then open [localhost:3000](http://localhost:3000) in your browser.
 
